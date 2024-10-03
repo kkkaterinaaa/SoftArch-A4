@@ -98,7 +98,3 @@ Contributions are welcome! Please follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-This version is formatted with Markdown conventions used in Git repositories, including headers, code blocks, and proper markdown formatting for the README. Let me know if any further modifications are needed!
