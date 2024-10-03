@@ -39,7 +39,7 @@ if __name__ == "__main__":
     pipe = Pipeline()
 
     hsv_filter = filters.HsvFilter()
-    pixel_filter = filters.PixelationFilter(pixel_size=4)
+    pixel_filter = filters.PixelationFilter(pixel_size=8)
     cartoon_filter = filters.CartoonFilter()
     edge_filter = filters.EdgeDetectionFilter()
 
