@@ -15,7 +15,7 @@ This project implements the Pipes-and-Filters Pattern, applying real-time video 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/video-stream-filters.git
+   git clone https://github.com/kkkaterinaaa/SoftArch-A4-Team12.git
    ```
 
 2. Install the dependencies:
