@@ -1,3 +1,4 @@
+import sys
 import cv2
 
 import filters as filters
@@ -37,7 +38,7 @@ class VideoSource:
 
 
 if __name__ == "__main__":
-    video_path = 'input.mp4'
+    video_path = sys.argv[1]
     source = VideoSource(video_path)
 
     pipe = Pipeline()
